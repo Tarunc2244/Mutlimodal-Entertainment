@@ -226,3 +226,28 @@ __marimo__/
 *.safetensors
 .env
 __pycache__/
+
+# Training outputs and model checkpoints
+runs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Copyrighted movie content
+*.mp4
+*.mkv
+*.mov
+*.wav
+*.mp3
+*.flac
+
+# Private research datasets
+*.csv
+*.parquet
+
+# Local environment
+.env
+.env.*
+__pycache__/
+.DS_Store

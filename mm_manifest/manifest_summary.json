@@ -1,0 +1,24 @@
+{
+  "original_metadata_rows": 13108,
+  "kept": 13107,
+  "by_movie": {
+    "Inside_Job": 1875,
+    "The_Hobbit": 1698,
+    "Hangover": 1650,
+    "Inception": 1581,
+    "Me_Before_You": 1577,
+    "Prisoners": 1255,
+    "Arrival": 1218,
+    "Get_Out": 1173,
+    "A_Beautiful_Minds": 1080
+  },
+  "by_split": {
+    "train": 10716,
+    "valid": 1218,
+    "test": 1173
+  },
+  "excluded_rows": {
+    "not_found_in_original_text_training_file": 0
+  },
+  "master_text_rows": 15689
+}
